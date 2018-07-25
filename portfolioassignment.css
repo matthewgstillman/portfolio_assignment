@@ -1,0 +1,316 @@
+*{
+  width: 970px;
+}
+
+.header{
+  width: 970px;
+  height: 40px;
+  background-color: #b3afaf;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.header h1{
+  padding-top: 20px;
+  margin-left: 15px;
+  margin-right: 260px;
+  font-family: helvetica;
+  display: inline;
+}
+
+.header h2{
+  font-family: verdana;
+  display: inline;
+}
+
+h3{
+  font-family: sans-serif;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+}
+
+h4{
+  font-family: sans-serif;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+}
+
+.wrapper{
+  width: 970px;
+  height: 940px;
+  background-color: #251419;
+}
+
+.profilepic{
+  width: 375px;
+  height: 220px;
+  border: 1px solid #c1c1c1;
+  margin-left: 20px;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.profilepic img{
+  height: 100%;
+  width: 100%;
+  border: 5px solid #DADCE0;
+}
+
+.aboutbox{
+  width: 53%;
+  height: 230px;
+  background-color: #c1bcc1;
+  margin-left: 30px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
+}
+
+/*.aboutbox p{
+  width: 100%;
+  text-align: justify;
+  font-family: sans-serif;
+}*/
+
+.abouttext p{
+  width: 100%;
+  margin-top: 0px;
+  text-align: justify;
+  font-family: sans-serif;
+  padding-left: 16px;
+  padding-right: 5px;
+  display: inline-block;
+}
+
+.abouttext{
+  width: 94%;
+  margin-top: 0px;
+}
+
+.aboutheader{
+  width: 100%;
+  height: 40px;
+  background-color: #878593;
+}
+
+.lamodebox{
+  width: 30%;
+  height: 65%;
+  margin-top: 25px;
+  margin-left: 20px;
+  background-color: #ded1dd;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.lamodebox p{
+  width: 94%;
+  margin-left: 3%;
+  text-align: justify;
+  font-family: sans-serif;
+}
+
+.lamodeboxheader{
+  width: 100%;
+  height: 40px;
+  background-color: #878593;
+}
+
+.lamodebox img{
+  width: 100%;
+  height: 30%;
+}
+
+.icons1 img{
+  width: 40px;
+  display: inline-block;
+  margin: 5px;
+}
+
+.lamodetext{
+  width: 100%;
+  height: 30%;
+}
+
+/*.lamodetext p{
+  width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+}*/
+
+.lowerlamodeboxheader{
+  width: 100%;
+  height: 40px;
+  background-color: #878593;
+}
+
+.familycontactsbox{
+  width: 30%;
+  height: 65%;
+  margin-top: 25px;
+  margin-left: 20px;
+  background-color: #ded1dd;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.familycontactsboxheader{
+  width: 100%;
+  height: 40px;
+  background-color: #878593;
+}
+
+.familycontactstext{
+  width: 100%;
+  height: 30%;
+}
+
+.familycontactstext p{
+  width: 94%;
+  margin-left: 3%;
+  text-align: justify;
+  font-family: sans-serif;
+}
+
+.lowerfamilycontactsboxheader{
+  width: 100%;
+  height: 40px;
+  background-color: #878593;
+}
+
+.familycontactsbox img{
+  width: 100%;
+  height: 30%;
+}
+
+.fiveelevenbox{
+  width: 30%;
+  height: 65%;
+  margin-top: 25px;
+  margin-left: 24px;
+  background-color: #ded1dd;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.fiveelevenbox img{
+  width: 100%;
+  height: 30%;
+}
+
+.fiveelevenboxheader{
+  width: 100%;
+  height: 40px;
+  background-color: #878593;
+}
+
+.fiveeleventext{
+  width: 94%;
+  margin-left: 3%;
+  height: 30%;
+}
+
+.fiveelevenbox p{
+  width: 100%;
+  text-align: justify;
+  font-family: sans-serif;
+}
+
+.lowerfiveelevenboxheader{
+  width: 100%;
+  height: 40px;
+  background-color: #878593;
+}
+
+button{
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  background-color: #407d61;
+  width: 69px;
+  margin-left: 100px;
+  display: block;
+}
+
+.footer{
+  width: 970px;
+  height: 60px;
+  vertical-align: top;
+  background-color: #aaaaaa;
+}
+
+h6{
+  text-align: center;
+  margin-top: 0px;
+}
+
+h5{
+  text-align: center;
+}
+
+h5 img{
+  width: 5%;
+  height: 15px;
+}
+
+.icons1{
+  width: 291px;
+  height: 75px;
+  padding-left: 10px;
+  padding-top: 5px;
+  display: inline-block;
+}
+
+.icons1 img{
+  width: 13%;
+  height: auto;
+  display: inline-block;
+}
+
+.icons2{
+  width: 291px;
+  height: 75px;
+  padding-left: 10px;
+  padding-top: 5px;
+  display: inline-block;
+}
+
+.icons2 img{
+  width: 13%;
+  height: auto;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.icons3{
+  width: 291px;
+  height: 75px;
+  margin-top: 23px;
+  padding-left: 10px;
+  padding-top: 5px;
+  display: inline-block;
+}
+
+.icons3 img{
+  width: 13%;
+  height: auto;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.footer img{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+}
+
+.footer a{
+  font-family: arial;
+  font-style: italic;
+  text-decoration: underline;
+  color: black;
+}
